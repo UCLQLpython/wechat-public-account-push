@@ -41,7 +41,7 @@ export const config = {
       // 所在城市
       city: "武汉",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://music.163.com/#/song?id=28287132"
      }, 
 //     {
 //       name: "1", 
@@ -49,7 +49,7 @@ export const config = {
 //       useTemplateId: "",
 //       province: "",
 //       city: "",
-//       openUrl: "https://wangxinleo.cn"
+//       openUrl: "https://music.163.com/#/song?id=28287132"
 //     }, 
 //     {
 //       name: "2",
