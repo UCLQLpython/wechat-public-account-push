@@ -41,16 +41,16 @@ export const config = {
       // 所在城市
       city: "武汉",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://music.163.com/#/song?id=1976731673"
+      openUrl: "https://music.163.com/#/song?id=416388799"
      }, 
-//     {
-//       name: "1", 
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       openUrl: "https://music.163.com/#/song?id=28287132"
-//     }, 
+    {
+      name: "QL", 
+      id: "o6kBF6pxEOBYiqZkYxvqnpR6PKWE",
+      useTemplateId: "4m4B1_ukppciwShZXnn0cxohQ6m1XY83pqGNGu1Bbr8",
+      province: "湖北",
+      city: "武汉",
+      openUrl: "https://music.163.com/#/song?id=416388799"
+    }, 
 //     {
 //       name: "2",
 //       id: "",
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o6kBF6pxEOBYiqZkYxvqnpR6PKWE",
+      id: "o6kBF6pxEOBYiqZkYxvqnpR6PKWE00",
     }, 
   ],
     
