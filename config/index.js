@@ -33,9 +33,9 @@ export const config = {
       // 想要发送的人的名字
       name: "小烨",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o6kBF6pnUa2aY7XKvVcWmzWIr1uk",
+      id: "o6kBF6pxEOBYiqZkYxvqnpR6PKWE",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "2e5B1xyTHfQaP5gR1fYvonA_QHIsqBb9cSRaaiKzqg8",
+      useTemplateId: "4m4B1_ukppciwShZXnn0cxohQ6m1XY83pqGNGu1Bbr8",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -159,7 +159,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "动画"
+  LITERARY_PREFERENCE: ""
 
 
 }
