@@ -24,7 +24,7 @@ export const config = {
    *    // 你想对他发送的模板消息的模板ID
    *    useTemplateId: "NUtVOelJgyrvMjiL3PPwTwQCRq3cZfodW3T8WHN0LgA",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://wangxinleo.cn"
+   *    openUrl: "https://music.163.com/#/song?id=1976731673"
    *   }, 
    * ]
    */
@@ -41,7 +41,7 @@ export const config = {
       // 所在城市
       city: "武汉",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://www.kugou.com/song/#hash=C0083441F4E614910FDDFCFF6A0E6E6D&album_id=15600507"
+      openUrl: "https://music.163.com/#/song?id=1976731673"
      }, 
 //     {
 //       name: "1", 
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o6kBF6pxEOBYiqZkYxvqnpR6PKWE000",
+      id: "o6kBF6pxEOBYiqZkYxvqnpR6PKWE",
     }, 
   ],
     
