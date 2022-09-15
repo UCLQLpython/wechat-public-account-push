@@ -49,7 +49,7 @@ export const config = {
       useTemplateId: "4m4B1_ukppciwShZXnn0cxohQ6m1XY83pqGNGu1Bbr8",
       province: "湖北",
       city: "武汉",
-      openUrl: "https://music.163.com/#/song?id=416388799"
+      openUrl: "https://music.163.com/#/mv?id=419444"
     }, 
 //     {
 //       name: "2",
